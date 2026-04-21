@@ -25,7 +25,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,react,java,c,js,html,css,firebase,mysql,git,figma,postman" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,kotlin,react,java,c,js,html,css,firebase,mysql,git,figma,postman" alt="My Skills" />
 </p>
 
 ---
